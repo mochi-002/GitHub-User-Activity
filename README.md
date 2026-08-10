@@ -25,7 +25,7 @@ Project idea from [roadmap.sh](https://roadmap.sh/projects/github-user-activity)
 git clone https://github.com/mochi-002/GitHub-User-Activity.git
 cd GitHub-User-Activity
 npm install
-npm run build
+npm link
 ```
 
 ## Usage
